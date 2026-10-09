@@ -1,34 +1,121 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"albarracin":
+  - firstname: ["Dolores"]
+    url: https://scholar.google.com/citations?user=OZE5-nQAAAAJ
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"aldstadt":
+  - firstname: ["Jared"]
+    url: https://scholar.google.com/citations?user=LNnWJaEAAAAJ
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"baig":
+  - firstname: ["Furqan"]
+    url: https://scholar.google.com/citations?user=BJ_mTDkAAAAJ
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"chan":
+  - firstname: ["Man-pui Sally"]
+    url: https://scholar.google.com/citations?user=PxZjei0AAAAJ
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"crooks":
+  - firstname: ["Andrew"]
+    url: https://scholar.google.com/citations?user=RDQF0ScAAAAJ
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"fayaz-farkhad":
+  - firstname: ["Bita"]
+    url: https://scholar.google.com/citations?user=ROvbBi8AAAAJ
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"han":
+  - firstname: ["Su Yeon", "Su"]
+    url: https://scholar.google.com/citations?user=oVTYA5kAAAAJ
+  - firstname: ["Chaeyeon"]
+    url: https://scholar.google.com/citations?user=_4W_x-MAAAAJ
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"haqiqi":
+  - firstname: ["Iman"]
+    url: https://scholar.google.com/citations?user=YlXNrHgAAAAJ
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"jaroenchai":
+  - firstname: ["Nattapon"]
+    url: https://scholar.google.com/citations?user=Z_9XZGEAAAAJ
+
+"jiang":
+  - firstname: ["Yuqin"]
+    url: https://scholar.google.com/citations?user=BaMTux0AAAAJ
+
+"kalyanam":
+  - firstname: ["Rajesh"]
+    url: https://scholar.google.com/citations?user=iWx6G2wAAAAJ
+
+"kang":
+  - firstname: ["Jeon-Young"]
+    url: https://scholar.google.com/citations?user=u5cevWAAAAAJ
+  - firstname: ["Yunfan"]
+    url: https://scholar.google.com/citations?user=T8vfAJIAAAAJ
+
+"kim":
+  - firstname: ["Joon-Seok"]
+    url: https://scholar.google.com/citations?user=cAE-vgwAAAAJ
+
+"kotak":
+  - firstname: ["Mit"]
+    url: https://scholar.google.com/citations?user=DFr2AOcAAAAJ
+
+"li":
+  - firstname: ["Zhiyu"]
+    url: https://scholar.google.com/citations?user=yskFOAgAAAAJ
+  - firstname: ["Bo"]
+    url: https://scholar.google.com/citations?user=Ou2lsj4AAAAJ
+
+"lyu":
+  - firstname: ["Fangzheng"]
+    url: https://scholar.google.com/citations?user=FNN4IasAAAAJ
+
+"manning":
+  - firstname: ["Nicholas"]
+    url: https://scholar.google.com/citations?user=T4xVeaMAAAAJ
+
+"manson":
+  - firstname: ["Steven"]
+    url: https://scholar.google.com/citations?user=zw-DFDgAAAAJ
+
+"nassar":
+  - firstname: ["Ayman"]
+    url: https://scholar.google.com/citations?user=6flaS3YAAAAJ
+
+"padmanabhan":
+  - firstname: ["Anand"]
+    url: https://scholar.google.com/citations?user=ADQABncAAAAJ
+
+"park":
+  - firstname: ["Jinwoo"]
+    url: https://scholar.google.com/citations?user=nWiH4jsAAAAJ
+
+"shi":
+  - firstname: ["Jimeng"]
+    url: https://scholar.google.com/citations?user=rnNnv8cAAAAJ
+
+"song":
+  - firstname: ["X. Carol"]
+    url: https://scholar.google.com/citations?user=L5OCx08AAAAJ
+
+"tarboton":
+  - firstname: ["David", "David G."]
+    url: https://scholar.google.com/citations?user=fo6rTT8AAAAJ
+
+"tonks":
+  - firstname: ["Adam"]
+    url: https://scholar.google.com/citations?user=wbkE8h4AAAAJ
+
+"vandewalle":
+  - firstname: ["Rebecca"]
+    url: https://scholar.google.com/citations?user=1WzQbAgAAAAJ
+
+"wang":
+  - firstname: ["Shaowen"]
+    url: https://scholar.google.com/citations?user=qcUhJIcAAAAJ
+  - firstname: ["Shaohua"]
+    url: https://scholar.google.com/citations?user=gnuAFYUAAAAJ
+  - firstname: ["Zhaonan"]
+    url: https://scholar.google.com/citations?user=jepQqkoAAAAJ
+
+"xiao":
+  - firstname: ["Zimo"]
+    url: https://github.com/zimo-xiao

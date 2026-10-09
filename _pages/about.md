@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: School of Economic, Political and Policy Sciences, The University of Texas at Dallas
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: geocass-icon.drawio.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>School of Economic, Political and Policy Sciences</p>
+    <p>The University of Texas at Dallas</p>
+    <p>800 W. Campbell Road, GR 31</p>
+    <p>Richardson, TX 75080</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +23,22 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false # no blog posts yet; the blog page is hidden from the navbar
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to the GeoCASS Lab at The University of Texas at Dallas, directed by [Dr. Alexander Michels](/people/), Assistant Professor of GIS in the School of Economic,
+Political and Policy Sciences.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We use geospatial data science and cyberGIS to tackle societal challenges. Our research interests include geospatial data science, cyberGIS, spatial accessibility
+analysis, and high-performance computing for geographic problems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- TODO: expand with the lab's mission and any additional research themes. -->
+
+Our work is supported by the National Science Foundation, including the CyberTraining award [CITY-AI](/projects/1_project/) (NSF Award 2612146). See our
+[publications](/publications/) and [projects](/projects/), and meet the team on the [people](/people/) page.
+
+**Join us:** we are recruiting 1-2 PhD students for the UTD GIS Program with Fall 2027 enrollment, and we are open to mentoring students of all levels and
+backgrounds whose interests align with our research. Competitive PhD applicants typically already have a Master's degree (or equivalent), a background in GIS or a
+related field, and some research experience. Reach out using the links below.

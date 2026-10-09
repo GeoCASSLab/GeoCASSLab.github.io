@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-09-01 09:00:00-0500
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+The GeoCASS Lab is recruiting 1-2 PhD students for the UTD GIS Program with Fall 2027 enrollment. See the [people](/people/) page to get in touch.
