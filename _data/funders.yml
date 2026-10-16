@@ -1,0 +1,16 @@
+# Funders, rendered in the "Supported by" section of the landing page (_pages/about.md).
+# Fields: name, url, logo (optional; file in assets/img/), awards (list of {number, title, url, project}).
+# `project` is the permalink of the related project page; leave it off if there is none.
+#
+# Logos: NSF requires the OFFICIAL logo, unaltered and not recolored, and asks recipients to get clearance before
+# publishing webpages with it (NSFbranding@nsf.gov). Leave `logo` empty until the official file is in assets/img/
+# and the site has been cleared. See https://www.nsf.gov/policies/brand
+
+- name: National Science Foundation
+  url: https://www.nsf.gov/
+  logo: # e.g. nsf-logo.png once the official file is obtained and cleared
+  awards:
+    - number: "2612146"
+      title: "CITY-AI: CyberTraining for AI-Enabled Intelligent Urban Informatics and Smart City Innovation"
+      url: https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2612146
+      project: /projects/geoai/

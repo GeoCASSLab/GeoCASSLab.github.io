@@ -1,0 +1,76 @@
+# Lab roster, rendered by _pages/profiles.md (the /people/ page).
+# Groups render in this order; a group with no members is hidden, so empty groups are safe to leave in place.
+# Member fields (all optional except name):
+#   name, role, image (file in assets/img/), email, links (list of {label, url}), bio (markdown)
+# Alumni additionally use: degree, years, now (current position / placement).
+#
+# To add someone, copy the commented template under the right group.
+
+- id: director
+  title: Director
+  members:
+    - name: Alexander Michels
+      role: Director, GeoCASS Lab
+      image: people/Defense2-Square.jpeg
+      email: Alexander.Michels@utdallas.edu
+      address: 800 W. Campbell Road, GR 31, Richardson, TX 75080
+      links:
+        - label: Personal site
+          url: https://alexandermichels.github.io/
+      bio: |
+        Assistant Professor, School of Economic, Political and Policy Sciences, The University of Texas at Dallas
+
+        Dr. Michels specializes in geospatial data science and cyberGIS to tackle societal challenges. He earned his Ph.D. in Informatics (2025) and M.S. in Geography
+        (2024) from the University of Illinois Urbana-Champaign under Dr. Shaowen Wang, and a B.S. in Mathematics and Financial Economics from Westminster College
+        (2019). His research interests include geospatial data science, cyberGIS, spatial accessibility analysis, and high-performance computing for geographic problems.
+
+        He received the William L. Garrison Award for Best Dissertation in Computational Geography and is Vice Chair of the AAG Cyberinfrastructure Specialty Group.
+
+- id: staff
+  title: Staff & Postdoctoral Researchers
+  members: []
+  # - name: TODO Name
+  #   role: Postdoctoral Researcher # or Research Scientist, Research Engineer, ...
+  #   image: geocass-icon.drawio.png
+  #   email: TODO
+  #   links:
+  #     - { label: Google Scholar, url: "https://scholar.google.com/..." }
+  #   bio: TODO short bio and research interests.
+
+- id: graduate
+  title: Graduate Students
+  members:
+    # TODO: template entries; fill in or delete once member info is collected.
+    - name: Americo Gamarra
+      role: PhD Student, Geospatial Information Science
+      image: people/AmericoGamarra.jpeg
+      email: Americo.Gamarra@UTDallas.edu
+      bio: Machine learning and deep learning in Remote Sensing, Oil and Gas Infrastructure detection. Americo is on the job market, seeking positions for Summer or Fall of 2027.
+    - name: Kwadwo Frimpong
+      role: PhD Student, Geospatial Information Science
+      image: people/KwadwoFrimpong.jpeg
+      email: Kwadwo.Frimpong@UTDallas.edu
+      bio: My research lies at the intersection of GIScience, remote sensing, and climate change adaptation, with a focus on land use/cover change, land surface temperature, heat stress, and thermal comfort in urban environments. My work integrates machine learning, spatial statistics, and climate indices to examine the impacts of global and local drivers on heat stress exposure and resilience.
+    - name: Jiacheng Zhang
+      role: PhD Student, Geospatial Information Sciences
+      image: people/JiachengZhang.JPG
+      email: Jiacheng.Zhang@UTDallas.edu
+      bio: Jiacheng Zhang is a Ph.D. student in Geospatial Information Sciences at the University of Texas at Dallas. He earned his M.S. in Geographic Information Science from the University of Illinois Urbana-Champaign (2024) and his B.S. in Land Resource Management from Qufu Normal University(2023). His research focuses on CyberGIS and geospatial data science, emphasizing the integration of advanced geospatial technologies to address complex spatial challenges.
+
+- id: undergraduate
+  title: Undergraduate Students
+  members: []
+  # - name: TODO Name
+  #   role: Undergraduate Researcher
+  #   image: geocass-icon.drawio.png
+  #   bio: TODO major, research interests.
+
+- id: alumni
+  title: Past Students
+  members: []
+  # - name: TODO Name
+  #   degree: MS # or PhD, BS
+  #   years: 2026-2028
+  #   now: TODO current position or next step
+  #   links:
+  #     - { label: Website, url: "https://..." }
